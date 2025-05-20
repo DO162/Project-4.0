@@ -1,0 +1,6 @@
+﻿  Main project.cpp
+C:\Users\sdk26\Desktop\Код\C++\Main project\Header.h(163,8): warning C4101: info_panel: неиспользованная локальная переменная
+  (компиляция исходного файла "Main%20project.cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project\Main project.cpp(4,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Main project.vcxproj -> C:\Users\sdk26\Desktop\Код\C++\Main project\x64\Debug\Main project.exe
